@@ -1,1 +1,6 @@
-[]
+[
+	{
+		"pkg": "capacitor-jitsi-meet",
+		"classpath": "com.capacitor.jitsi.plugin.Jitsi"
+	}
+]
