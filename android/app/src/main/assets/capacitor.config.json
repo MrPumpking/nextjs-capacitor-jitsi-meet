@@ -1,0 +1,6 @@
+{
+	"appId": "com.example.app",
+	"appName": "nextjs-capacitor-jitsi-meet",
+	"webDir": "out",
+	"bundledWebRuntime": false
+}
